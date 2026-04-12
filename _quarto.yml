@@ -3,9 +3,9 @@ project:
   output-dir: docs/
 
 website:
-  title: "Außerschulische Lernorte"
-  site-url: https://OGERhub.github.io/aslo
-  repo-url: https://github.com/OGERhub/aslo
+  title: "Rheinexkursion"
+  site-url: https://OGERhub.github.io/Rheinexkursion
+  repo-url: https://github.com/OGERhub/Rheinexkursion
   repo-actions: [edit]
   favicon: /images/logo.png
   bread-crumbs: false
@@ -29,14 +29,14 @@ website:
     style: docked
     collapse-level: 1
     contents:
-      - section: "HowTo AsLo"
+      - section: "Kursübersicht"
         contents:
           - index.qmd
           - unit00/unit00-02-stupruef.qmd
 
       - text: "---"
 
-      - section: "Außerschulische Lernorte"
+      - section: "Vorbereitungsseminar"
         contents: 
           - href: unit99/tag-1.qmd
             text: "Folien Blocktag 1"
