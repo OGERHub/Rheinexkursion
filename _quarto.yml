@@ -38,16 +38,8 @@ website:
 
       - section: "Vorbereitungsseminar"
         contents: 
-          - href: unit99/tag-1.qmd
-            text: "Folien Blocktag 1"
-          - href: unit99/tag-2.qmd
-            text: "Folien Blocktag 2"
-          - href: unit99/tag-3.qmd
-            text: "Folien Blocktag 3"
           - href: unit01/unit01-05.qmd
             text: "Kompetenzmodell zur Bewertung"
-          - href: unit01/unit01-06.qmd
-            text: "Themenfelder zur Klimaresilienz"
           - href: unit01/unit01-02.qmd
             text: "Didaktische Konzepte"            
 
